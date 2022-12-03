@@ -59,8 +59,6 @@ git config --global user.email ваша почта@example.com
 
 Для того, чтобы вставить картику(изображение) в Git можно использовать ссылку из интернета:
 
-![bear](https://avatars.mds.yandex.net/i?id=e9510a444febf12b2e7746fd9fd4d57467f5a9b1-5232444-images-thumbs&n=13)
-
 ![bear in wood](https://avatars.mds.yandex.net/i?id=35fd863168cc6d302e2d8cf8b282046031c1f313-4117190-images-thumbs&n=13)
 
 в данном случае, в квадратных скобках указывается название картинки, а в круглых ссылка 
